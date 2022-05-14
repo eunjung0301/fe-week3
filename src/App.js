@@ -63,11 +63,11 @@ function App() {
       </Wrapper>
       <Wrapper3>
         <Wrapper2>
-          <MediaCard image="/img/B1.jpg" head="Jocker" />
+          <MediaCard image="/img/B1.jpg" head="Joker" />
           <MediaCard image="/img/C1.jpg" head="Oneday" />
           <MediaCard image="/img/D1.jpg" head="Eternal Sunshine" />
-          <MediaCard image="/img/E1.jpg" head="The star is born" />
-          <MediaCard image="/img/F1.jpg" head=" Malena" />
+          <MediaCard image="/img/E1.jpg" head="A star is born" />
+          <MediaCard image="/img/F1.jpg" head="Malena" />
           <MediaCard image="/img/G1.jpg" head="Cicago" />
           <MediaCard image="/img/H1.jpg" head="Take this waltz" />
           <MediaCard image="/img/I1.jpg" head="Her" />
